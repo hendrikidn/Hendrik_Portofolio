@@ -1,4 +1,23 @@
-site_name: Hendrik Portofolio
+site_name: Portofolio
 site_url: https://Hendrik.org/hendrik_portofolio
 theme:
   name: material
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - navigation.indexes
+    - navigation.tracking
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      
+plugins:
+  - glightbox
