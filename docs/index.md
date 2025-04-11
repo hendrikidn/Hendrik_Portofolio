@@ -2,9 +2,12 @@
 
 <div class="grid cards" markdown>
 
--   ![Collection](assets/debt_collection_r.png){ width="100" height="100" align="center"}
+-   <p align="center">
+    ![Collection](assets/debt_collection_r.png){ width="100" height="100" align="center"}
+    </p>
 
-    __Debt Collection__
+    __Debt Collection__ 
+    {: style="text-align: center" }
 
     ---
 
@@ -14,9 +17,12 @@
     [View →](1_collection.md)
     {: style="font-size: 12px;" }
 
--   ![Customer](assets/customer_r.png){ width="100" height="100" align="center"}
+-   <p align="center">
+    ![Customer](assets/customer_r.png){ width="100" height="100" align="center"}
+    </p>
         
     __Customer Analytics__
+    {: style="text-align: center" }
 
     ---
 
@@ -26,9 +32,12 @@
     [View →](2_customer.md)
     {: style="font-size: 12px;" }
 
--   ![Forecasting](assets/forecasting_r.png){ width="100" height="100" align="center"}
+-   <p align="center">
+    ![Forecasting](assets/forecasting_r.png){ width="100" height="100" align="center"}
+    </p>
     
     __Forecasting__
+    {: style="text-align: center" }
 
     ---
 
@@ -38,9 +47,12 @@
     [View →](3_forecast.md)
     {: style="font-size: 12px;" }
 
--   ![Stock](assets/stock_r.png){ width="100" height="100" align="center"}
+-   <p align="center">
+    ![Stock](assets/stock_r.png){ width="100" height="100" align="center"}
+    </p>
     
     __Stock Recommendation__
+    {: style="text-align: center" }
 
     ---
 
